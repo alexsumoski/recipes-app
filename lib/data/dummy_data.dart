@@ -4,52 +4,52 @@ import 'package:recipes_app/models/category.dart';
 import 'package:recipes_app/models/meal.dart';
 
 const availableCategories = [
-  Category(
+  RecipeCategory(
     id: 'c1',
     title: 'Italian',
     color: Colors.purple,
   ),
-  Category(
+  RecipeCategory(
     id: 'c2',
     title: 'Quick & Easy',
     color: Colors.red,
   ),
-  Category(
+  RecipeCategory(
     id: 'c3',
     title: 'Hamburgers',
     color: Colors.orange,
   ),
-  Category(
+  RecipeCategory(
     id: 'c4',
     title: 'German',
     color: Colors.amber,
   ),
-  Category(
+  RecipeCategory(
     id: 'c5',
     title: 'Light & Lovely',
     color: Colors.blue,
   ),
-  Category(
+  RecipeCategory(
     id: 'c6',
     title: 'Exotic',
     color: Colors.green,
   ),
-  Category(
+  RecipeCategory(
     id: 'c7',
     title: 'Breakfast',
     color: Colors.lightBlue,
   ),
-  Category(
+  RecipeCategory(
     id: 'c8',
     title: 'Asian',
     color: Colors.lightGreen,
   ),
-  Category(
+  RecipeCategory(
     id: 'c9',
     title: 'French',
     color: Colors.pink,
   ),
-  Category(
+  RecipeCategory(
     id: 'c10',
     title: 'Summer',
     color: Colors.teal,
